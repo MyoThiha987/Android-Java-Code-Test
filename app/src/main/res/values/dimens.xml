@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small">4dp</dimen>
+    <dimen name="medium">12dp</dimen>
+    <dimen name="small_text">10sp</dimen>
+    <dimen name="medium_text">16sp</dimen>
+    <dimen name="large_text">20sp</dimen>
+    <dimen name="small_padding">2dp</dimen>
+    <dimen name="elevation">2dp</dimen>
+</resources>

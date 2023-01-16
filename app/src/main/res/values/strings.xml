@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodeTest</string>
+    <string name="new_detail">New Detail</string>
+    <string name="connected">Connected</string>
+    <string name="no_connected">Connection Lost</string>
+    <string name="double_back_press">Please click BACK again to exit</string>
+</resources>
